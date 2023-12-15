@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aksum" alt="aksum" /></a> </p>
 
-- 🌱 I’m currently learning **Mobile development**, also pursuing bachelor CS degree in HSE 
+- 🌱 I’m currently learning **System programming**, also pursuing bachelor CS degree in HSE 
 - 📝 I regularly write [posts in personal blog](https://t.me/panikulshin)
 - 📫 How to reach me **[t.me/p_nikulshin](https://t.me/p_nikulshin), paulus.nikulshin@yandex.ru**
 
