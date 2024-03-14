@@ -1,13 +1,11 @@
 <h1 align="center">Hello, I am Paul Nikulshin 👋</h1>
-<h3 align="center">A C++/Kotlin/Java/Python developer</h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aksum&label=Profile%20views&color=0e75b6&style=flat" alt="aksum" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aksum" alt="aksum" /></a> </p>
 
 - 🌱 I’m currently learning **System programming**, also pursuing bachelor CS degree in HSE 
-- 📝 I regularly write [posts in personal blog](https://t.me/panikulshin)
+- 📝 I sometimes write [posts in personal blog](https://t.me/panikulshin)
 - 📫 How to reach me **[t.me/p_nikulshin](https://t.me/p_nikulshin), paulus.nikulshin@yandex.ru**
 
 ### Connect with me:
